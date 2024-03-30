@@ -3,9 +3,6 @@
  */
 package com.ece.algo_arrays;
 
-import java.security.cert.CollectionCertStoreParameters;
-import java.util.Collections;
-
 /**
  * @author nagendrappae
  *
